@@ -1,6 +1,6 @@
-.o
-.obj
-.out
-.elf
+*.o
+*.obj
+*.out
+*.elf
 
 cpputest/

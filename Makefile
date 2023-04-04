@@ -41,7 +41,7 @@ $(NAME): $(COBJECTS)
 # Remove compiled object files
 .PHONY: clean
 clean:
-	rm -f $(COBJECTS)
+	rm -f $(COBJECTS) app.elf
 
 # Run tests
 .PHONY: test
